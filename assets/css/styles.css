@@ -15,7 +15,6 @@ body {
   background: #ffffff;
   border-bottom: 2px solid #cccccc;
   width: 100%;
-  
   margin: 0 auto;
   clear: both;
 }
@@ -62,4 +61,21 @@ footer {
   text-align: center;
   background: #666666;
   border-top: 8px solid #4aaaa5;
+}
+
+
+/* Contact Page */
+
+h3 {
+  color: #4aaaa5;
+  margin-bottom: 20px;
+}
+
+.btn {
+  padding: 10px 30px;
+  font-size: 18px;
+  color: #ffffff;
+  cursor: pointer;
+  background: #4aaaa5;
+  border: 0 none;
 }
