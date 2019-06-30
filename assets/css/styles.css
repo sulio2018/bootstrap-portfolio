@@ -68,7 +68,9 @@ nav {
 h2 {
   color: #4aaaa5;
   border-bottom: 3px solid #dddddd;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
+  line-height: 2.2;
+
 }
 
 footer {
@@ -109,7 +111,7 @@ h3 {
   overflow: auto;
 }
 
-.img-text h3 {
+.img-text h4 {
   position: absolute;
   bottom: 20px;
   width: 100%;
@@ -124,4 +126,9 @@ h3 {
 
 .img-text {
   margin: 20px;
+}
+
+h4 a {
+  text-decoration: none;
+  color: #ffffff
 }
